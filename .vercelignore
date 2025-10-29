@@ -1,0 +1,5 @@
+# Files to ignore during Vercel deployment
+.env.example
+README.md
+SUPABASE_SETUP.md
+.github/
